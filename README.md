@@ -1,2 +1,2 @@
 # DataCamp
-Projects and note from DataCamp.
+Projects and notes from DataCamp.
