@@ -1,6 +1,8 @@
 # Exploring NYC Public School Test Result Scores
 *This is my solution to project from DataCamp.* 
 
+![Bus image](https://github.com/jwiekiera/DataCamp/blob/main/Projects/SchoolsNYC/schoolbus.jpg)
+
 ## Which NYC schools have the best math results?
 
 * The best math results are at least 80% of the **maximum possible score of 800** for math.
