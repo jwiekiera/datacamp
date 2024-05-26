@@ -1,7 +1,7 @@
 # Predictive Modeling for Agriculture
 *This is my solution to project from DataCamp.* 
 
-![Field image](https://github.com/jwiekiera/DataCamp/blob/main/Projects/Predictive_Modeling_for_Agriculture/farmer_in_a_field.jpg)
+![Field image](farmer_in_a_field.jpg)
 
 Identify the single feature that has the strongest predictive performance for classifying crop types.
 
