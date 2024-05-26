@@ -1,7 +1,7 @@
 # Exploring NYC Public School Test Result Scores
 *This is my solution to project from DataCamp.* 
 
-![Bus image](https://github.com/jwiekiera/DataCamp/blob/main/Projects/SchoolsNYC/schoolbus.jpg)
+![Bus image](https://github.com/jwiekiera/DataCamp/blob/main/SchoolsNYC/schoolbus.jpg)
 
 ## Which NYC schools have the best math results?
 
